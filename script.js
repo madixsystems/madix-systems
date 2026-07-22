@@ -1,6 +1,6 @@
 // Paste your free Formspree endpoint between the quotation marks.
 // Example: const FORM_ENDPOINT = "https://formspree.io/f/abcdwxyz";
-const FORM_ENDPOINT = "";
+const FORM_ENDPOINT = "https://formspree.io/f/mnjezevy";
 
 const form = document.querySelector("#lead-form");
 const success = document.querySelector("#success");
